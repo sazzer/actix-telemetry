@@ -4,8 +4,8 @@ version = "0.1.0"
 edition = "2018"
 
 [dependencies]
-actix-service = "=2.0.0-beta.5"
-actix-web = "=4.0.0-beta.5"
+actix-web = "=4.0.0-beta.8"
+actix-service = "2.0.0"
 futures = "0.3.14"
 tracing = "0.1.26"
 
